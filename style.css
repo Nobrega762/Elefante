@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background:  #ffa545;
+}
+
+.conteudo{
+    background: rgb(238, 229, 146);
+    margin-right: 40%;
+    margin-left: 1%;
+}
+
+.rodape-conteudo{
+    margin-left: 22%;
+}
+
+
+
+.cabecalho{
+background: rgb(216, 191, 146);
+display: block;
+margin-right: 40%;
+height: 14%;
+margin-left: 1%;
+
+
+
+}
+.cabecalho-pai{
+display: flex;
+justify-content: space-around;  
+list-style-type: none;
+font-size: 150%;
+padding: 4%;
+
+
+
+
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    font-size: 120%;
+
+}
+a:visited{
+    color: rgb(0, 0, 0);
+}
+
+.foto-elefante-selva{
+border: 10px rgb(209, 201, 124) solid;
+margin-left: 1%;
+
+}
+
+.conteudo-texto{
+    margin-left: 1%;
+    margin-right: 40%;
+}
+
+.conteudo-titulo{
+    margin-left: 1%;
+}
+
+.contato{
+    margin-left: 1%;
+    font-size: 120%;
+}
+
+.cabecalho-foto{
+    margin-left: 1%;
+    border: 10px rgba(177, 147, 66, 0.562) solid;
+}
